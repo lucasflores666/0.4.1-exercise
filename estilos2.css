@@ -1,0 +1,26 @@
+tr:nth-child(1) {
+    background-color: black;
+    color: rgb(248, 0, 0);
+    border: none;
+  }
+  
+  td, th {
+    padding: 10px;
+    text-align: start;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(odd):not(:first-child) {
+    background-color: #ffffff;
+     
+
+     
+  }
+
+  .twitter{
+    color:red;
+  }
+
